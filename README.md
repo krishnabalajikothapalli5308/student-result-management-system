@@ -15,3 +15,8 @@ A Java-based console application used to manage student records, marks, and grad
 ## How to Run
 1. Compile the Java files
 2. Run the main class
+## Future Enhancements
+- Add login authentication
+- Convert console application to GUI
+- Improve database integration
+   
