@@ -1,2 +1,17 @@
-# student-result-management-system
-Java-based console application to manage student records and results
+# Student Result Management System
+
+## Description
+A Java-based console application used to manage student records, marks, and grades.
+
+## Technologies Used
+- Java
+- MySQL
+
+## Features
+- Add, update, delete student records
+- Calculate grades
+- Store and retrieve data from database
+
+## How to Run
+1. Compile the Java files
+2. Run the main class
